@@ -1,0 +1,11 @@
+{
+  "approved": [
+    {
+      "number": "8950076099",
+      "device": "DEVICE_ID_123",
+      "status": "approved"
+    }
+  ],
+  "pending": [],
+  "rejected": []
+}
